@@ -1,0 +1,19 @@
+#include <iostream>
+#include <cstdlib>
+#include <cmath>
+#include <algorithm>
+#include <iterator>
+#include <random>
+#include <math.h>
+#include <numeric>
+#include <float.h>
+#include <string>
+#include <stdexcept>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <iomanip>
+#include <functional>
+#include <map>
+#include <future>
+using namespace std;

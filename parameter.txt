@@ -1,0 +1,7 @@
+Dimension 2 10 30
+Evaluation 10000
+Iteration 30
+PopulationRatial 10 5 4
+F 0.6
+CR 0.6
+FunctionNumber 10
